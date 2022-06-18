@@ -34,6 +34,12 @@
                   <p>Update</p>
                 </a>
               </li>
+              <li class="nav-item">
+                <a href=<?= base_url() . "/Dosen"; ?>>
+                  <i class="far fa-circle nav-icon"></i>
+                  <p>Update</p>
+                </a>
+              </li>
             </ul>
           </li>
       <li class="nav-item">
